@@ -1,4 +1,4 @@
-#code for lower trangel pattern 
+#code for lower triangular pattern 
 
 row = int(input("Enter number of rows "))
 
